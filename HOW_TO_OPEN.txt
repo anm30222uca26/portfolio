@@ -1,0 +1,21 @@
+HOW TO OPEN YOUR PORTFOLIO
+============================
+
+DO NOT double-click index.html — it will look empty!
+This is a React app and needs a local server.
+
+EASIEST WAY:
+  Double-click: START_PORTFOLIO.bat
+  Then open in browser: http://localhost:5173
+
+OR in terminal:
+  cd D:\Desktop\portfolio
+  npm install
+  npm run dev
+
+To view the production build:
+  Double-click: OPEN_BUILT_SITE.bat
+  Or run: npm run build  then  npm run preview
+
+Your project files are in the "src" folder.
+Built files go to the "dist" folder after npm run build.
