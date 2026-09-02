@@ -1,8 +1,8 @@
 export const personalInfo = {
   name: 'Dhileepan M',
-  role: 'Computer Science Engineering Student | Full Stack Developer | IoT Developer',
+  role: 'MCA Student | Full Stack Developer | IoT Developer',
   email: 'dhileepan.m@example.com',
-  phone: '+91 XXXXXXXXXX',
+  phone: '+91 9342212867',
   linkedin: 'https://linkedin.com/in/dhileepan-m',
   github: 'https://github.com/anm30222uca26',
   githubUsername: 'anm30222uca26',
@@ -13,7 +13,7 @@ export const personalInfo = {
   typingRoles: [
     'Full Stack Developer',
     'IoT Developer',
-    'CS Engineering Student',
+    'MCA Student',
     'Problem Solver',
   ],
   profileImage: 'https://github.com/anm30222uca26.png',
